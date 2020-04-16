@@ -1,5 +1,13 @@
 # Follion-Consulting
 
+
+Displaying only the image and descriptions of Custom POS Hardware and Consumables 
+Thertmal paper Rolls 
+Epos System
+Thermal Receipr Printer
+Barcode Scanner
+
+=======
 The Training services will incliudes the followings:
 BA/Product Owner
 Software Testing
@@ -23,6 +31,3 @@ page 1
 This is brief information about the company and company's directors.
 The information about the date and year the company started and names and profile of each directors.
 We need to add each director precious working experience
-
-
-
