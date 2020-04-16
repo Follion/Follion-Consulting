@@ -1,17 +1,8 @@
 # Follion-Consulting
 
-About Us 
+Displaying only the image and descriptions of Custom POS Hardware and Consumables 
+Thertmal paper Rolls 
+Epos System
+Thermal Receipr Printer
+Barcode Scanner
 
-Software Development (Wen & Mobile)
-
-Commercial Applications
-
-Testing (QA, Component, Integration, System, E2E and UAT)
-
-Training (BA/Product Owner, Testing, Project Manager)
-
-Hardware
-
-Blogs (Social Media)
-
-Contact Us
